@@ -1,0 +1,7 @@
+requests>=2.31
+beautifulsoup4>=4.12
+feedparser>=6.0
+python-docx>=1.1
+pandas>=2.2
+openpyxl>=3.1
+# optional, only for real GA4 data: google-analytics-data>=0.18

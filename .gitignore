@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+credentials*.json
+*.csv
+!examples/*.csv
+lead_images/
+.pytest_cache/
